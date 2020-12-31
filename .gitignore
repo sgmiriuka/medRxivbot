@@ -6,9 +6,12 @@ __pycache__/
 
 # my files
 
-/scripts/temp.txt
-/scripts/medbot.txt
-/scritps/activity.log
+temp.txt
+medbot.txt
+activity.log
+.vscode
+__pycache__
+
 
 # C extensions
 *.so

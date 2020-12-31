@@ -31,7 +31,7 @@ def get_med_papers():
             'sexual_and_reproductive_health','sports_medicine','surgery',
             'toxicology','transplantation','urology']
     today = date.today()
-    yesterday = today - timedelta(days = 2)
+    yesterday = today - timedelta(days = 1)
     all_pubs = []
     n_items = 0
     try:

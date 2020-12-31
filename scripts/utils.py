@@ -9,7 +9,7 @@ import bs4 as bs
 
 def get_med_papers():
     '''
-    Gets papers from bioRxiv API and creates an SQL table with them. 
+    Gets papers from RSS medRxiv 
     '''
     cwd = os.getcwd()
     logging.basicConfig(filename=cwd + '/activity.log', format='%(asctime)s: %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p',
@@ -57,6 +57,7 @@ def get_med_papers():
         logging.info('Connection problems')
 
 def papers_to_db():
+    '''Get papers from medRxiv and creates a sqlite3 database'''
     new_publications = get_med_papers()
     cwd = os.getcwd()
     connection = None

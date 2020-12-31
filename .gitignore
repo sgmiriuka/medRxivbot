@@ -11,6 +11,7 @@ medbot.txt
 activity.log
 .vscode
 __pycache__
+settings.json
 
 
 # C extensions

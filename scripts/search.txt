@@ -1,0 +1,5 @@
+(artificial intelligence OR deep learning OR machine learning) AND (cancer or tumor)
+(artificial intelligence OR deep learning OR machine learning) AND (heart failure OR myocardial infarction OR cardio OR vascular)
+heart failure
+artificial intelligence OR deep learning OR machine learning
+covid-19

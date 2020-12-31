@@ -1,0 +1,207 @@
+12/30/2020 11:15:48 AM: Start with get_papers
+12/30/2020 11:15:48 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:15:49 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=addiction_medicine HTTP/1.1" 200 None
+12/30/2020 11:15:50 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=addiction_medicine
+12/30/2020 11:15:50 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:15:50 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=allergy_and_immunology HTTP/1.1" 200 None
+12/30/2020 11:15:51 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=allergy_and_immunology
+12/30/2020 11:15:51 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:15:51 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=anesthesia HTTP/1.1" 200 None
+12/30/2020 11:15:52 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=anesthesia
+12/30/2020 11:15:52 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:15:52 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=cardiovascular_medicine HTTP/1.1" 200 None
+12/30/2020 11:15:53 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=cardiovascular_medicine
+12/30/2020 11:15:53 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:15:53 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=dentistry_and_oral_medicine HTTP/1.1" 200 None
+12/30/2020 11:15:54 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=dentistry_and_oral_medicine
+12/30/2020 11:15:54 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:15:54 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=dermatology HTTP/1.1" 200 None
+12/30/2020 11:15:55 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=dermatology
+12/30/2020 11:15:55 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:15:55 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=emergency_medicine HTTP/1.1" 200 None
+12/30/2020 11:15:56 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=emergency_medicine
+12/30/2020 11:15:56 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:15:56 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=endocrinology HTTP/1.1" 200 None
+12/30/2020 11:15:57 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=endocrinology
+12/30/2020 11:15:57 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:15:58 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=diabetes_mellitus_and_metabolic_disease HTTP/1.1" 200 None
+12/30/2020 11:15:58 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=diabetes_mellitus_and_metabolic_disease
+12/30/2020 11:15:58 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:15:58 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=epidemiology HTTP/1.1" 200 None
+12/30/2020 11:15:59 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=epidemiology
+12/30/2020 11:15:59 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:15:59 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=forensic_medicine HTTP/1.1" 200 None
+12/30/2020 11:15:59 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=forensic_medicine
+12/30/2020 11:15:59 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:00 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=gastroenterology HTTP/1.1" 200 None
+12/30/2020 11:16:00 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=gastroenterology
+12/30/2020 11:16:00 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:01 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=genetic_and_genomic_medicine HTTP/1.1" 200 None
+12/30/2020 11:16:01 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=genetic_and_genomic_medicine
+12/30/2020 11:16:01 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:02 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=geriatric_medicine HTTP/1.1" 200 None
+12/30/2020 11:16:02 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=geriatric_medicine
+12/30/2020 11:16:02 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:03 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=health_economics HTTP/1.1" 200 None
+12/30/2020 11:16:03 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=health_economics
+12/30/2020 11:16:03 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:04 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=health_informatics HTTP/1.1" 200 None
+12/30/2020 11:16:04 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=health_informatics
+12/30/2020 11:16:04 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:05 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=health_policy HTTP/1.1" 200 None
+12/30/2020 11:16:05 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=health_policy
+12/30/2020 11:16:05 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:06 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=health_systems_and_quality_improvement HTTP/1.1" 200 None
+12/30/2020 11:16:07 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=health_systems_and_quality_improvement
+12/30/2020 11:16:07 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:07 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=hematology HTTP/1.1" 200 None
+12/30/2020 11:16:08 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=hematology
+12/30/2020 11:16:08 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:09 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=HIV/AIDS HTTP/1.1" 200 None
+12/30/2020 11:16:09 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=HIV/AIDS
+12/30/2020 11:16:09 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:10 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=infectious_diseases HTTP/1.1" 200 None
+12/30/2020 11:16:10 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=infectious_diseases
+12/30/2020 11:16:10 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:11 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=intensive_care_and_critical_care_medicine HTTP/1.1" 200 None
+12/30/2020 11:16:12 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=intensive_care_and_critical_care_medicine
+12/30/2020 11:16:12 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:12 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=medical_education HTTP/1.1" 200 None
+12/30/2020 11:16:13 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=medical_education
+12/30/2020 11:16:13 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:13 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=medical_ethics HTTP/1.1" 200 None
+12/30/2020 11:16:14 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=medical_ethics
+12/30/2020 11:16:14 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:14 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=nephrology HTTP/1.1" 200 None
+12/30/2020 11:16:15 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=nephrology
+12/30/2020 11:16:15 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:16 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=neurology HTTP/1.1" 200 None
+12/30/2020 11:16:16 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=neurology
+12/30/2020 11:16:16 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:17 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=nursing HTTP/1.1" 200 None
+12/30/2020 11:16:17 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=nursing
+12/30/2020 11:16:17 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:18 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=nutrition HTTP/1.1" 200 None
+12/30/2020 11:16:18 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=nutrition
+12/30/2020 11:16:18 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:19 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=obstetrics_and_gynecology HTTP/1.1" 200 None
+12/30/2020 11:16:19 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=obstetrics_and_gynecology
+12/30/2020 11:16:19 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:20 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=occupational_and_environmental_health HTTP/1.1" 200 None
+12/30/2020 11:16:21 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=occupational_and_environmental_health
+12/30/2020 11:16:21 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:21 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=oncology HTTP/1.1" 200 None
+12/30/2020 11:16:22 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=oncology
+12/30/2020 11:16:22 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:22 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=ophthalmology HTTP/1.1" 200 None
+12/30/2020 11:16:23 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=ophthalmology
+12/30/2020 11:16:23 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:24 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=orthopedics HTTP/1.1" 200 None
+12/30/2020 11:16:24 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=orthopedics
+12/30/2020 11:16:24 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:25 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=otolaryngology HTTP/1.1" 200 None
+12/30/2020 11:16:25 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=otolaryngology
+12/30/2020 11:16:25 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:26 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=pain_medicine HTTP/1.1" 200 None
+12/30/2020 11:16:26 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=pain_medicine
+12/30/2020 11:16:26 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:27 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=palliative_medicine HTTP/1.1" 200 None
+12/30/2020 11:16:27 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=palliative_medicine
+12/30/2020 11:16:27 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:28 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=pathology HTTP/1.1" 200 None
+12/30/2020 11:16:28 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=pathology
+12/30/2020 11:16:28 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:29 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=pediatrics HTTP/1.1" 200 None
+12/30/2020 11:16:29 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=pediatrics
+12/30/2020 11:16:29 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:30 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=pharmacology_and_therapeutics HTTP/1.1" 200 None
+12/30/2020 11:16:30 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=pharmacology_and_therapeutics
+12/30/2020 11:16:30 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:31 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=primary_care_research HTTP/1.1" 200 None
+12/30/2020 11:16:31 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=primary_care_research
+12/30/2020 11:16:31 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:32 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=psychiatry_and_clinical_psychology HTTP/1.1" 200 None
+12/30/2020 11:16:33 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=psychiatry_and_clinical_psychology
+12/30/2020 11:16:33 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:33 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=public_and_global_health HTTP/1.1" 200 None
+12/30/2020 11:16:34 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=public_and_global_health
+12/30/2020 11:16:34 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:34 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=radiology_and_imaging HTTP/1.1" 200 None
+12/30/2020 11:16:35 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=radiology_and_imaging
+12/30/2020 11:16:35 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:36 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=rehabilitation_medicine_and_physical_therapy HTTP/1.1" 200 None
+12/30/2020 11:16:36 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=rehabilitation_medicine_and_physical_therapy
+12/30/2020 11:16:36 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:37 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=respiratory_medicine HTTP/1.1" 200 None
+12/30/2020 11:16:37 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=respiratory_medicine
+12/30/2020 11:16:37 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:38 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=rheumatology HTTP/1.1" 200 None
+12/30/2020 11:16:38 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=rheumatology
+12/30/2020 11:16:38 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:39 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=sexual_and_reproductive_health HTTP/1.1" 200 None
+12/30/2020 11:16:40 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=sexual_and_reproductive_health
+12/30/2020 11:16:40 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:40 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=sports_medicine HTTP/1.1" 200 None
+12/30/2020 11:16:41 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=sports_medicine
+12/30/2020 11:16:41 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:41 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=surgery HTTP/1.1" 200 None
+12/30/2020 11:16:42 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=surgery
+12/30/2020 11:16:42 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:42 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=toxicology HTTP/1.1" 200 None
+12/30/2020 11:16:43 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=toxicology
+12/30/2020 11:16:43 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:43 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=transplantation HTTP/1.1" 200 None
+12/30/2020 11:16:44 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=transplantation
+12/30/2020 11:16:44 AM: Starting new HTTP connection (1): connect.medrxiv.org:80
+12/30/2020 11:16:44 AM: http://connect.medrxiv.org:80 "GET /medrxiv_xml.php?subject=urology HTTP/1.1" 200 None
+12/30/2020 11:16:45 AM: Request: http://connect.medrxiv.org/medrxiv_xml.php?subject=urology
+12/30/2020 11:16:45 AM: Got papers OK. Number of papers yesterday: 2
+12/30/2020 11:16:45 AM: Keywords OK
+12/30/2020 11:16:45 AM: No papers matching keywords were found today.
+12/30/2020 11:16:45 AM: No papers matching keywords were found today.
+12/30/2020 11:16:45 AM: No papers matching keywords were found today.
+12/30/2020 11:16:45 AM: No papers matching keywords were found today.
+12/30/2020 11:16:45 AM: Yes, got a paper.
+12/30/2020 11:16:45 AM: Yes, got a paper.
+12/30/2020 11:16:45 AM: PARAMS: {}
+12/30/2020 11:16:45 AM: Signing request <PreparedRequest [GET]> using client <Client client_key=hSifmcT5rLLl6OjZ0oslf73La, client_secret=****, resource_owner_key=1344222985830477826-Kl79T2oCmJV8eHhyI0e60Pfd0Aq82T, resource_owner_secret=****, signature_method=HMAC-SHA1, signature_type=AUTH_HEADER, callback_uri=None, rsa_key=None, verifier=None, realm=None, encoding=utf-8, decoding=None, nonce=None, timestamp=None>
+12/30/2020 11:16:45 AM: Including body in call to sign: False
+12/30/2020 11:16:45 AM: Collected params: [('oauth_nonce', '104590890302217487231609337805'), ('oauth_timestamp', '1609337805'), ('oauth_version', '1.0'), ('oauth_signature_method', 'HMAC-SHA1'), ('oauth_consumer_key', 'hSifmcT5rLLl6OjZ0oslf73La'), ('oauth_token', '1344222985830477826-Kl79T2oCmJV8eHhyI0e60Pfd0Aq82T')]
+12/30/2020 11:16:45 AM: Normalized params: oauth_consumer_key=hSifmcT5rLLl6OjZ0oslf73La&oauth_nonce=104590890302217487231609337805&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1609337805&oauth_token=1344222985830477826-Kl79T2oCmJV8eHhyI0e60Pfd0Aq82T&oauth_version=1.0
+12/30/2020 11:16:45 AM: Normalized URI: https://api.twitter.com/1.1/account/verify_credentials.json
+12/30/2020 11:16:45 AM: Signing: signature base string: GET&https%3A%2F%2Fapi.twitter.com%2F1.1%2Faccount%2Fverify_credentials.json&oauth_consumer_key%3DhSifmcT5rLLl6OjZ0oslf73La%26oauth_nonce%3D104590890302217487231609337805%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1609337805%26oauth_token%3D1344222985830477826-Kl79T2oCmJV8eHhyI0e60Pfd0Aq82T%26oauth_version%3D1.0
+12/30/2020 11:16:45 AM: Signature: QsZMKURV2NgHDUCg8EHbDUUU19w=
+12/30/2020 11:16:45 AM: Updated url: https://api.twitter.com/1.1/account/verify_credentials.json
+12/30/2020 11:16:45 AM: Updated headers: {'Host': 'api.twitter.com', 'Authorization': 'OAuth oauth_nonce="104590890302217487231609337805", oauth_timestamp="1609337805", oauth_version="1.0", oauth_signature_method="HMAC-SHA1", oauth_consumer_key="hSifmcT5rLLl6OjZ0oslf73La", oauth_token="1344222985830477826-Kl79T2oCmJV8eHhyI0e60Pfd0Aq82T", oauth_signature="QsZMKURV2NgHDUCg8EHbDUUU19w%3D"'}
+12/30/2020 11:16:45 AM: Updated body: None
+12/30/2020 11:16:45 AM: Starting new HTTPS connection (1): api.twitter.com:443
+12/30/2020 11:16:45 AM: https://api.twitter.com:443 "GET /1.1/account/verify_credentials.json HTTP/1.1" 200 2080
+12/30/2020 11:16:45 AM: Authentication OK
+12/30/2020 11:16:45 AM: PARAMS: {'status': b'Can age-distribution be an indicator of the goodness of COVID-19 testing? \nhttp://medrxiv.org/cgi/content/short/2020.12.21.20248690v1?rss=1'}
+12/30/2020 11:16:45 AM: Signing request <PreparedRequest [POST]> using client <Client client_key=hSifmcT5rLLl6OjZ0oslf73La, client_secret=****, resource_owner_key=1344222985830477826-Kl79T2oCmJV8eHhyI0e60Pfd0Aq82T, resource_owner_secret=****, signature_method=HMAC-SHA1, signature_type=AUTH_HEADER, callback_uri=None, rsa_key=None, verifier=None, realm=None, encoding=utf-8, decoding=None, nonce=None, timestamp=None>
+12/30/2020 11:16:45 AM: Including body in call to sign: False
+12/30/2020 11:16:45 AM: Collected params: [('status', 'Can age-distribution be an indicator of the goodness of COVID-19 testing? \nhttp://medrxiv.org/cgi/content/short/2020.12.21.20248690v1?rss=1'), ('oauth_nonce', '38515982316009680101609337805'), ('oauth_timestamp', '1609337805'), ('oauth_version', '1.0'), ('oauth_signature_method', 'HMAC-SHA1'), ('oauth_consumer_key', 'hSifmcT5rLLl6OjZ0oslf73La'), ('oauth_token', '1344222985830477826-Kl79T2oCmJV8eHhyI0e60Pfd0Aq82T')]
+12/30/2020 11:16:45 AM: Normalized params: oauth_consumer_key=hSifmcT5rLLl6OjZ0oslf73La&oauth_nonce=38515982316009680101609337805&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1609337805&oauth_token=1344222985830477826-Kl79T2oCmJV8eHhyI0e60Pfd0Aq82T&oauth_version=1.0&status=Can%20age-distribution%20be%20an%20indicator%20of%20the%20goodness%20of%20COVID-19%20testing%3F%20%0Ahttp%3A%2F%2Fmedrxiv.org%2Fcgi%2Fcontent%2Fshort%2F2020.12.21.20248690v1%3Frss%3D1
+12/30/2020 11:16:45 AM: Normalized URI: https://api.twitter.com/1.1/statuses/update.json
+12/30/2020 11:16:45 AM: Signing: signature base string: POST&https%3A%2F%2Fapi.twitter.com%2F1.1%2Fstatuses%2Fupdate.json&oauth_consumer_key%3DhSifmcT5rLLl6OjZ0oslf73La%26oauth_nonce%3D38515982316009680101609337805%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1609337805%26oauth_token%3D1344222985830477826-Kl79T2oCmJV8eHhyI0e60Pfd0Aq82T%26oauth_version%3D1.0%26status%3DCan%2520age-distribution%2520be%2520an%2520indicator%2520of%2520the%2520goodness%2520of%2520COVID-19%2520testing%253F%2520%250Ahttp%253A%252F%252Fmedrxiv.org%252Fcgi%252Fcontent%252Fshort%252F2020.12.21.20248690v1%253Frss%253D1
+12/30/2020 11:16:45 AM: Signature: EW/jNiGsXvL+OjntSQIdS3LIUt4=
+12/30/2020 11:16:45 AM: Updated url: https://api.twitter.com/1.1/statuses/update.json?status=Can+age-distribution+be+an+indicator+of+the+goodness+of+COVID-19+testing%3F+%0Ahttp%3A%2F%2Fmedrxiv.org%2Fcgi%2Fcontent%2Fshort%2F2020.12.21.20248690v1%3Frss%3D1
+12/30/2020 11:16:45 AM: Updated headers: {'Host': 'api.twitter.com', 'Content-Length': '0', 'Authorization': 'OAuth oauth_nonce="38515982316009680101609337805", oauth_timestamp="1609337805", oauth_version="1.0", oauth_signature_method="HMAC-SHA1", oauth_consumer_key="hSifmcT5rLLl6OjZ0oslf73La", oauth_token="1344222985830477826-Kl79T2oCmJV8eHhyI0e60Pfd0Aq82T", oauth_signature="EW%2FjNiGsXvL%2BOjntSQIdS3LIUt4%3D"'}
+12/30/2020 11:16:45 AM: Updated body: None
+12/30/2020 11:16:45 AM: Starting new HTTPS connection (1): api.twitter.com:443
+12/30/2020 11:16:46 AM: https://api.twitter.com:443 "POST /1.1/statuses/update.json?status=Can+age-distribution+be+an+indicator+of+the+goodness+of+COVID-19+testing%3F+%0Ahttp%3A%2F%2Fmedrxiv.org%2Fcgi%2Fcontent%2Fshort%2F2020.12.21.20248690v1%3Frss%3D1 HTTP/1.1" 200 2083
+12/30/2020 11:16:51 AM: PARAMS: {'status': b'Maori and Pacific People in New Zealand have higher risk of hospitalisation for COVID-19 \nhttp://medrxiv.org/cgi/content/short/2020.12.25.20248427v1?rss=1'}
+12/30/2020 11:16:51 AM: Signing request <PreparedRequest [POST]> using client <Client client_key=hSifmcT5rLLl6OjZ0oslf73La, client_secret=****, resource_owner_key=1344222985830477826-Kl79T2oCmJV8eHhyI0e60Pfd0Aq82T, resource_owner_secret=****, signature_method=HMAC-SHA1, signature_type=AUTH_HEADER, callback_uri=None, rsa_key=None, verifier=None, realm=None, encoding=utf-8, decoding=None, nonce=None, timestamp=None>
+12/30/2020 11:16:51 AM: Including body in call to sign: False
+12/30/2020 11:16:51 AM: Collected params: [('status', 'Maori and Pacific People in New Zealand have higher risk of hospitalisation for COVID-19 \nhttp://medrxiv.org/cgi/content/short/2020.12.25.20248427v1?rss=1'), ('oauth_nonce', '60245295510612882611609337811'), ('oauth_timestamp', '1609337811'), ('oauth_version', '1.0'), ('oauth_signature_method', 'HMAC-SHA1'), ('oauth_consumer_key', 'hSifmcT5rLLl6OjZ0oslf73La'), ('oauth_token', '1344222985830477826-Kl79T2oCmJV8eHhyI0e60Pfd0Aq82T')]
+12/30/2020 11:16:51 AM: Normalized params: oauth_consumer_key=hSifmcT5rLLl6OjZ0oslf73La&oauth_nonce=60245295510612882611609337811&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1609337811&oauth_token=1344222985830477826-Kl79T2oCmJV8eHhyI0e60Pfd0Aq82T&oauth_version=1.0&status=Maori%20and%20Pacific%20People%20in%20New%20Zealand%20have%20higher%20risk%20of%20hospitalisation%20for%20COVID-19%20%0Ahttp%3A%2F%2Fmedrxiv.org%2Fcgi%2Fcontent%2Fshort%2F2020.12.25.20248427v1%3Frss%3D1
+12/30/2020 11:16:51 AM: Normalized URI: https://api.twitter.com/1.1/statuses/update.json
+12/30/2020 11:16:51 AM: Signing: signature base string: POST&https%3A%2F%2Fapi.twitter.com%2F1.1%2Fstatuses%2Fupdate.json&oauth_consumer_key%3DhSifmcT5rLLl6OjZ0oslf73La%26oauth_nonce%3D60245295510612882611609337811%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1609337811%26oauth_token%3D1344222985830477826-Kl79T2oCmJV8eHhyI0e60Pfd0Aq82T%26oauth_version%3D1.0%26status%3DMaori%2520and%2520Pacific%2520People%2520in%2520New%2520Zealand%2520have%2520higher%2520risk%2520of%2520hospitalisation%2520for%2520COVID-19%2520%250Ahttp%253A%252F%252Fmedrxiv.org%252Fcgi%252Fcontent%252Fshort%252F2020.12.25.20248427v1%253Frss%253D1
+12/30/2020 11:16:51 AM: Signature: i/kNdj7bKxh0xLBO6FVix+xy7Lw=
+12/30/2020 11:16:51 AM: Updated url: https://api.twitter.com/1.1/statuses/update.json?status=Maori+and+Pacific+People+in+New+Zealand+have+higher+risk+of+hospitalisation+for+COVID-19+%0Ahttp%3A%2F%2Fmedrxiv.org%2Fcgi%2Fcontent%2Fshort%2F2020.12.25.20248427v1%3Frss%3D1
+12/30/2020 11:16:51 AM: Updated headers: {'Host': 'api.twitter.com', 'Content-Length': '0', 'Authorization': 'OAuth oauth_nonce="60245295510612882611609337811", oauth_timestamp="1609337811", oauth_version="1.0", oauth_signature_method="HMAC-SHA1", oauth_consumer_key="hSifmcT5rLLl6OjZ0oslf73La", oauth_token="1344222985830477826-Kl79T2oCmJV8eHhyI0e60Pfd0Aq82T", oauth_signature="i%2FkNdj7bKxh0xLBO6FVix%2Bxy7Lw%3D"'}
+12/30/2020 11:16:51 AM: Updated body: None
+12/30/2020 11:16:51 AM: Starting new HTTPS connection (1): api.twitter.com:443
+12/30/2020 11:16:51 AM: https://api.twitter.com:443 "POST /1.1/statuses/update.json?status=Maori+and+Pacific+People+in+New+Zealand+have+higher+risk+of+hospitalisation+for+COVID-19+%0Ahttp%3A%2F%2Fmedrxiv.org%2Fcgi%2Fcontent%2Fshort%2F2020.12.25.20248427v1%3Frss%3D1 HTTP/1.1" 200 2099
+12/30/2020 11:16:56 AM: Number of tweets today: 2
+12/30/2020 11:16:56 AM: End

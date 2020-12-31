@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# my files
+
+/scripts/temp.txt
+/scripts/medbot.txt
+/scritps/activity.log
+
 # C extensions
 *.so
 

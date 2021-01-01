@@ -1,7 +1,6 @@
 import requests
 from datetime import date, timedelta
 import sqlite3
-import math
 import tweepy
 import logging
 import os

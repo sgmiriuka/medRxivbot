@@ -19,6 +19,7 @@ git clone https://github.com/sgmiriuka/medRxivbot.git
 * Tweepy=3.9.0
 * requests=2.25.0
 * beautifulsoup4=4.9.3
+* lxml=4.6.2
 
 Not checked with different versions. 
 

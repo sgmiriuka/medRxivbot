@@ -22,15 +22,13 @@ def search_and_tweet():
                matched_kw = line[0]
                tu = list(line[1])
                doi = tu[0]
-               title = tu[1]  #not used so far
+               title = tu[1]
                if doi in dois:
                      continue
                else:
                      dois.append(doi)
                link = tu[3]
                n_char = len(title)
-               #n_char = len(matched_kw)
-               #message = 'Keywords'
                if n_char > 110:
                      title_length = 110 - len(title)
                      _title_to_post = title[:title_length]
@@ -43,7 +41,6 @@ def search_and_tweet():
                with open(cwd + '/temp.txt', 'r') as f:
                     api.update_status(f.read())
                f.close()
-               #print(message + '\n'  + final_matched_kw + '\n' + link)
                time.sleep(5)
           logging.info('Number of tweets today: %s', n_tweets + 1)
 

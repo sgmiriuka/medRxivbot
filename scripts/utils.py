@@ -11,7 +11,7 @@ def get_med_papers():
     Gets papers from RSS medRxiv 
     '''
     cwd = os.getcwd()
-    logging.basicConfig(filename=cwd + '/activity.log', format='%(asctime)s: %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p',
+    logging.basicConfig(filename=cwd + '/medRxivbot/scripts/activity.log', format='%(asctime)s: %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p',
                           filemode='w', level=logging.DEBUG)
     logging.info('Start with get_papers')
     subjects = ['addiction_medicine','allergy_and_immunology','anesthesia','cardiovascular_medicine',
@@ -60,7 +60,7 @@ def papers_to_db():
     new_publications = get_med_papers()
     cwd = os.getcwd()
     connection = None
-    connection = sqlite3.connect(cwd + '/medbot.db')
+    connection = sqlite3.connect(cwd + '/medRxivbot/scripts/medbot.db')
     cursor = connection.cursor()
     cursor.execute('''DROP TABLE if exists yesterday_pubs''')
     cursor.execute('''CREATE TABLE 'yesterday_pubs'
@@ -83,7 +83,7 @@ def load_keywords():
      Read keywords from serach.txt file and converts them into a LIKE sqlite3 search. 
      '''
      cwd = os.getcwd()
-     with open(cwd + '/search.txt') as f:
+     with open(cwd + '/medRxivbot/scripts/search.txt') as f:
           lines = [i.strip() for i in f.readlines()]
           lowline = []
           for line in lines:
@@ -115,7 +115,7 @@ def read_from_database():
     Read keywords in abstract and retrived matched papers.
     '''
     cwd = os.getcwd()
-    connection = sqlite3.connect(cwd + '/medbot.db')
+    connection = sqlite3.connect(cwd + '/medRxivbot/scripts/medbot.db')
     cursor = connection.cursor()
     keywords = load_keywords()
     key_retrived = []
@@ -137,7 +137,7 @@ def tweet_login():
      '''
      creds = []
      cwd = os.getcwd()
-     with open(cwd + '/credentials.txt') as f:
+     with open(cwd + '/medRxivbot/scriptss/credentials.txt') as f:
           creds = [i.strip() for i in f.readlines()]
           auth = tweepy.OAuthHandler(creds[0], creds[1])
           auth.set_access_token(creds[2], creds[3])

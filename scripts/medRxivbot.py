@@ -36,9 +36,9 @@ def search_and_tweet():
                else:
                      final_title = title
                cwd = os.getcwd()
-               with open(cwd + '/temp.txt', 'w') as f:
+               with open(cwd + '/medRxivbot/scripts/temp.txt', 'w') as f:
                     f.write(final_title + '\n' + link)
-               with open(cwd + '/temp.txt', 'r') as f:
+               with open(cwd + '/medRxivbot/scripts/temp.txt', 'r') as f:
                     api.update_status(f.read())
                f.close()
                time.sleep(5)

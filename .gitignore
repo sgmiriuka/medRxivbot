@@ -5,7 +5,7 @@ __pycache__/
 
 
 # my files
-scripts/creadentials.txt
+scripts/credentials.txt
 scripts/cron.log
 scripts/temp.txt
 scripts/medbot.db

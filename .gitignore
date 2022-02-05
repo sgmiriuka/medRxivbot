@@ -5,9 +5,10 @@ __pycache__/
 
 
 # my files
-
+creadentials.txt
+cron.log
 temp.txt
-medbot.txt
+medbot.db
 activity.log
 .vscode
 __pycache__

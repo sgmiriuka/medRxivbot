@@ -1,6 +1,8 @@
 (artificial intelligence OR deep learning OR machine learning) AND (cancer or tumor)
 (artificial intelligence OR deep learning OR machine learning) AND (heart failure OR myocardial infarction OR cardio OR vascular)
-heart failure
-artificial intelligence OR deep learning OR machine learning
-liquid biopsy
-(RNA-seq OR transcriptomics) AND (blood OR platelets)
+(liquid biopsy) AND (cardiovascular OR cardiac OR myocardial infarction OR heart failure)
+(RNA-seq OR transcriptomics OR RNAseq OR transcriptome) AND (blood OR platelets OR monocytes OR lymphocytes)
+(RNA-seq OR transcriptomics OR RNAseq) AND (cardiac OR caardiovascular OR atherosclerosis OR heart failure OR myocardial infarction)
+(blood microbiome)
+(atherosclerosis OR atherosclerotic) AND (RNA OR RNA-seq OR sequencing OR transcriptomics OR transcriptome)
+(liquid biopsy)

@@ -65,16 +65,17 @@ def papers_to_db():
     cursor.execute('''DROP TABLE if exists yesterday_pubs''')
     cursor.execute('''CREATE TABLE 'yesterday_pubs'
                          ('doi','title','date','abstract','link')''')
-    for pub in new_publications:
-        doi = pub.get('doi')
-        title = pub.get('title')
-        pubdate = pub.get('publicationdate')
-        abstract = pub.get('description')
-        link = pub.get('link')
-        link =str(link).replace('<link>', '').replace('</link>', '').replace('\n', '')
-        cursor.execute('INSERT INTO yesterday_pubs VALUES(?,?,?,?,?)', 
-                            (doi,title, pubdate, abstract, str(link)))
-        connection.commit()
+    if not new_publications:
+        for pub in new_publications:
+            doi = pub.get('doi')
+            title = pub.get('title')
+            pubdate = pub.get('publicationdate')
+            abstract = pub.get('description')
+            link = pub.get('link')
+            link =str(link).replace('<link>', '').replace('</link>', '').replace('\n', '')
+            cursor.execute('INSERT INTO yesterday_pubs VALUES(?,?,?,?,?)', 
+                                (doi,title, pubdate, abstract, str(link)))
+            connection.commit()
     connection.close()
 
 
@@ -137,7 +138,7 @@ def tweet_login():
      '''
      creds = []
      cwd = os.getcwd()
-     with open(cwd + '/medRxivbot/scriptss/credentials.txt') as f:
+     with open(cwd + '/medRxivbot/scripts/credentials.txt') as f:
           creds = [i.strip() for i in f.readlines()]
           auth = tweepy.OAuthHandler(creds[0], creds[1])
           auth.set_access_token(creds[2], creds[3])

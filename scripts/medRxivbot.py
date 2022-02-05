@@ -19,7 +19,7 @@ def search_and_tweet():
           api = tweet_login()
           dois = []
           for n_tweets, line in enumerate(k_now):
-               matched_kw = line[0]
+               #matched_kw = line[0]
                tu = list(line[1])
                doi = tu[0]
                title = tu[1]

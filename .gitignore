@@ -5,11 +5,11 @@ __pycache__/
 
 
 # my files
-creadentials.txt
-cron.log
-temp.txt
-medbot.db
-activity.log
+scripts/creadentials.txt
+scripts/cron.log
+scripts/temp.txt
+scripts/medbot.db
+scripts/activity.log
 .vscode
 __pycache__
 settings.json
